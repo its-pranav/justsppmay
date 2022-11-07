@@ -312,7 +312,7 @@ async def start_TeleDarkk():
             pass 
 
 loop = asyncio.get_event_loop()
-loop.run_until_complete(start_luci())       
+loop.run_until_complete(start_TeleDarkk())       
 
 async def gifspam(e, smex):
     try:
