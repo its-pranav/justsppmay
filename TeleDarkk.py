@@ -48,7 +48,7 @@ SMEX_USERS = [5395488954]
 for x in SUDO:
     SMEX_USERS.append(x)
     
-async def start_luci():
+async def start_luc():
     global luc
     global luc2
     global luc3
