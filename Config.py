@@ -3,7 +3,8 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-STRING = getenv("STRING")
+STRING = getenv("AQAfYGeKaL746HaqXaGdkcXJnUySsoJT6-XvwuHln6YuZEwkPwRaUp0aImALhnpMXulyzydL23SoaLIJx5-hFOQWC6U3611erYkJr1R9eH2ynaSdc2aHH28MnV0cGyad76q40g5WBo5Jcw18uqBhzZl1VJLvH4uFyoZ-zyMmZqDOW3vDCq0SYCbqlipC9S28r9TCTyxgC8IYwkR1YsRz7SjKwzCyffvy6F6UGWjo4qJM4bJBvCf--Mz2DBGH-UV1uqt_fyPVGOUqcroBCIQ_fXdGAwmUfBRZXTnBWOo_rKLOSSdvxp6kvAY02KlUT3EF_dDE8m8rr39BzpmL7i_qQQFFAAAAAVk7-HgA
+")
 STRING2 = getenv("STRING2")
 STRING3 = getenv("STRING3")
 STRING4 = getenv("STRING4")
